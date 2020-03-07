@@ -1,5 +1,6 @@
-title: John Fetscher
-## Welcome to GitHub Pages
+## John Fetscher
+
+Welcome to the professional website of John Fetscher, Consulting Intern at Primera Engineers and Project Manager of Phoenix - a University of Illinois upstart clothing company.
 
 You can use the [editor on GitHub](https://github.com/jfetscher/jfetscher.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
