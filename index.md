@@ -19,8 +19,8 @@ Hi, my name is John Fetscher and I am a senior studying Statistics at the Univer
 
 
 # Professional Accounts
-[**LinkedIn**](https://www.linkedin.com/in/john-fetscher-375401152/)
-[**GitHub**](https://github.com/jfetscher)
-[**Phoenix**](https://phxfashion.bigcartel.com)
+* [**LinkedIn**](https://www.linkedin.com/in/john-fetscher-375401152/)
+* [**GitHub**](https://github.com/jfetscher)
+* [**Phoenix**](https://phxfashion.bigcartel.com)
 
 
