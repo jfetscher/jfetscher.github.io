@@ -1,6 +1,8 @@
 Welcome to the professional website of John Fetscher, Consulting Intern at Primera Engineers and Project Manager of Phoenix - a University of Illinois upstart clothing company.
 
-![STAT 385](stat385.png)
+<p align="center">
+  <img width="460" height="300" src="stat385.png">
+</p>
 
 # Biography
 
@@ -14,7 +16,6 @@ Welcome to the professional website of John Fetscher, Consulting Intern at Prime
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 
 
 ### Support or Contact
