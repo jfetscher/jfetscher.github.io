@@ -12,15 +12,28 @@ Hi, my name is John Fetscher and I am a senior studying Statistics at the Univer
 
 ## STAT 385: Statistics Programming Methods
 
+### Data Visualization
 
+### Programming Methods
 
 ## STAT 443: Professional Statistics
 
+### Methods in Industry
 
+# CV/Resume
 
 # Professional Accounts
 * [**LinkedIn**](https://www.linkedin.com/in/john-fetscher-375401152/)
 * [**GitHub**](https://github.com/jfetscher)
 * [**Phoenix**](https://phxfashion.bigcartel.com)
+
+# Relevant Coursework
+* [**STAT 385: Statistics Programming Methods**](https://courses.illinois.edu/schedule/2020/spring/STAT/385)
+* [**STAT 400: Statistics and Probability I**](https://courses.illinois.edu/schedule/2020/spring/STAT/400)
+* [**STAT 410: Statistics and Probability II**](https://courses.illinois.edu/schedule/2020/spring/STAT/410)
+* [**STAT 420: Methods of Applied Statisics**](https://courses.illinois.edu/schedule/2020/spring/STAT/420)
+* [**STAT 425: Applied Regression and Design**](https://courses.illinois.edu/schedule/2020/spring/STAT/425)
+* [**STAT 440: Statistical Data Management**](https://courses.illinois.edu/schedule/2020/spring/STAT/440)
+* [**STAT 443: Professional Statistics**](https://courses.illinois.edu/schedule/2020/spring/STAT/443)
 
 
