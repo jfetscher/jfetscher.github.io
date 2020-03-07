@@ -6,18 +6,21 @@ Welcome to the professional website of John Fetscher, Consulting Intern at Prime
 
 # Biography
 
+Hi, my name is John Fetscher and I am a senior studying Statistics at the University of Illinois at Urbana-Champaign. Outside of my studies, I serve as a Consulting Intern for Primera Engineers, Project Manager of Phoenix, and as an Undergraduate Research Assistant for the Gies College of Business. Upon graduation in August, I plan to enter into the field of Consulting, using my technical background in statistics to improve data analysis and collection methods.
+
 # Blog
+
+## STAT 385: Statistics Programming Methods
+
+
+
+## STAT 443: Professional Statistics
+
+
 
 # Professional Accounts
 [**LinkedIn**](https://www.linkedin.com/in/john-fetscher-375401152/)
 [**GitHub**](https://github.com/jfetscher)
+[**Phoenix**](https://phxfashion.bigcartel.com)
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
