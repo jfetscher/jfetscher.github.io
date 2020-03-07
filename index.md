@@ -16,11 +16,11 @@ Hi, my name is John Fetscher and I am a senior studying Statistics at the Univer
 
 ### Programming Methods
 
-## STAT 443: Professional Statistics
+## STAT 443: Professional StatisticsFetscher_Resume.pdf
 
 ### Methods in Industry
 
-# [CV/Resume](jfetscher.github.io/pdfs/John Fetscher_Resume.pdf)
+# [CV/Resume](https://drive.google.com/file/d/18PcPykiAO_hySSiGjfotxsO5GkMMWQ-X/view?usp=sharing)
 
 # Professional Accounts
 * [**LinkedIn**](https://www.linkedin.com/in/john-fetscher-375401152/)
