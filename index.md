@@ -20,7 +20,7 @@ Hi, my name is John Fetscher and I am a senior studying Statistics at the Univer
 
 ### Methods in Industry
 
-# CV/Resume
+# [CV/Resume](John Fetscher_Resume.pdf)
 
 # Professional Accounts
 * [**LinkedIn**](https://www.linkedin.com/in/john-fetscher-375401152/)
