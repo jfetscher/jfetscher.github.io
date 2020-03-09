@@ -29,7 +29,7 @@ grid()
 ```
 
 <p align="center">
-  <img width="1000" height="400" src="stat3852.png">
+  <img width="800" height="400" src="stat3852.png">
 </p>
 
 ### Programming Methods
