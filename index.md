@@ -38,7 +38,7 @@ long_name_vec <- function(vec){
 }
 ```
 
-## STAT 443: Professional StatisticsFetscher_Resume.pdf
+## STAT 443: Professional Statistics
 
 ### Methods in Industry
 
