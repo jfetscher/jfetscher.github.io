@@ -42,12 +42,6 @@ long_name_vec <- function(vec){
 }
 ```
 
-## STAT 443: Professional Statistics
-
-### Methods in Industry
-
-
-
 # [CV/Resume](https://drive.google.com/file/d/18PcPykiAO_hySSiGjfotxsO5GkMMWQ-X/view?usp=sharing)
 
 # Professional Accounts
@@ -63,5 +57,3 @@ long_name_vec <- function(vec){
 * [**STAT 425: Applied Regression and Design**](https://courses.illinois.edu/schedule/2020/spring/STAT/425)
 * [**STAT 440: Statistical Data Management**](https://courses.illinois.edu/schedule/2020/spring/STAT/440)
 * [**STAT 443: Professional Statistics**](https://courses.illinois.edu/schedule/2020/spring/STAT/443)
-
-
