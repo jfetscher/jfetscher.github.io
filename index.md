@@ -14,6 +14,8 @@ Hi, my name is John Fetscher and I am a senior studying Statistics at the Univer
 
 ### Data Visualization
 
+A main component of my coursework in STAT 385 focuses on methods of data visualization in R. Below is a visual pertaining to waiting and eruption times for Old Faithful geyser at Yellowstone National Park. The histogram shows the spread of waiting times while the scatterplot depicts the relationship between waiting and eruption times.
+
 ```r
 par(mfrow = c(1,2))
 hist(x = faithful$waiting, main = "Histogram of Waiting Time", xlab = "Waiting Time (mins)", 
@@ -41,6 +43,8 @@ long_name_vec <- function(vec){
 ## STAT 443: Professional Statistics
 
 ### Methods in Industry
+
+
 
 # [CV/Resume](https://drive.google.com/file/d/18PcPykiAO_hySSiGjfotxsO5GkMMWQ-X/view?usp=sharing)
 
