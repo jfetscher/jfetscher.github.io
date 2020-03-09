@@ -42,6 +42,16 @@ long_name_vec <- function(vec){
 }
 ```
 
+## STAT 443: Professional Statistics
+
+### Methods in Industry
+
+In STAT 443, one of the most enjoyable components of the course is attending lectures given by working statisticians. The lecture series serves to show different industries and project types in which statistics is employed. 
+
+The first lecture discussed the data analytics and tracking used to manage healthcare facilities. The presenters dove into the software and coding behind tracking metrics for hospitals, even showing how valuable insights for improving healthcare can be derived from analysis. 
+
+The most recent lecture came from Verizon Media. The presenter focused on the use of data science and machine learning methods to target online advertisement "click" fraud. In reviewing the model, the presenter showed how certain criteria such as recent internet activity and clicks per IP address can be used to decide whether a click is a human or a bot.
+
 # [CV/Resume](https://drive.google.com/file/d/18PcPykiAO_hySSiGjfotxsO5GkMMWQ-X/view?usp=sharing)
 
 # Professional Accounts
