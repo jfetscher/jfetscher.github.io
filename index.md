@@ -34,6 +34,8 @@ grid()
 
 ### Programming Methods
 
+Another component of STAT 385 is learning different programming methods. Recently, we learned about vectorized code and its necessity in developing efficient code. Below is an example of a vectorized function which quickly calculates which objects within an array are longer than 8 characters.
+
 ```r
 long_name_vec <- function(vec){
   return(vec[nchar(vec) > 8])
