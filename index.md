@@ -14,7 +14,25 @@ Hi, my name is John Fetscher and I am a senior studying Statistics at the Univer
 
 ### Data Visualization
 
+```r
+par(mfrow = c(1,2))
+hist(x = faithful$waiting, main = "Histogram of Waiting Time", xlab = "Waiting Time (mins)", 
+     breaks = 15, border = "dodgerblue", probability = TRUE, ylim = c(0,.05), xlim = c(40,100))
+box()
+grid()
+plot(faithful$waiting, faithful$eruptions, main = "Waiting Time vs. Eruption Time", 
+     xlab = "Waiting Time (mins)", ylab = "Eruption Time (mins)", col = "darkmagenta")
+box()
+grid()
+```
+
 ### Programming Methods
+
+```r
+long_name_vec <- function(vec){
+  return(vec[nchar(vec) > 8])
+}
+```
 
 ## STAT 443: Professional StatisticsFetscher_Resume.pdf
 
